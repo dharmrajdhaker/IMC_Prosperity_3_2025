@@ -22,36 +22,6 @@ class Product:
     VOLCANIC_ROCK_VOUCHER_10500 = "VOLCANIC_ROCK_VOUCHER_10500"
 
 PARAMS = {
-    Product.DJEMBES: {
-        "take_width": 1,
-        "clear_width": 0,
-        "prevent_adverse": True,
-        "adverse_volume": 10,
-        "disregard_edge": 1,
-        "join_edge": 0,
-        "default_edge": 1,
-        "rolling_window": 200
-    },
-    Product.PICNIC_BASKET1: {
-        "take_width": 1,
-        "clear_width": 0,
-        "prevent_adverse": True,
-        "adverse_volume": 10,
-        "disregard_edge": 1,
-        "join_edge": 0,
-        "default_edge": 1,
-        "rolling_window": 200
-    },
-    Product.KELP: {
-        "take_width": 1,
-        "clear_width": 0,
-        "prevent_adverse": True,
-        "adverse_volume": 15,
-        "reversion_beta": -0.229,
-        "disregard_edge": 1,
-        "join_edge": 0,
-        "default_edge": 1,
-    },
     Product.CROISSANTS: {
         "spread": 1,
         "order_size": 20,
@@ -118,6 +88,36 @@ PARAMS = {
     Product.VOLCANIC_ROCK_VOUCHER_10500: {
         "window": 2000,
         "limit": 200
+    },
+Product.DJEMBES: {
+        "take_width": 1,
+        "clear_width": 0,
+        "prevent_adverse": True,
+        "adverse_volume": 10,
+        "disregard_edge": 1,
+        "join_edge": 0,
+        "default_edge": 1,
+        "rolling_window": 200
+    },
+    Product.PICNIC_BASKET1: {
+        "take_width": 1,
+        "clear_width": 0,
+        "prevent_adverse": True,
+        "adverse_volume": 10,
+        "disregard_edge": 1,
+        "join_edge": 0,
+        "default_edge": 1,
+        "rolling_window": 200
+    },
+    Product.KELP: {
+        "take_width": 1,
+        "clear_width": 0,
+        "prevent_adverse": True,
+        "adverse_volume": 15,
+        "reversion_beta": -0.229,
+        "disregard_edge": 1,
+        "join_edge": 0,
+        "default_edge": 1,
     }
 }
 
