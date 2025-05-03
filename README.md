@@ -1,4 +1,3 @@
-
 # 🏆 Global IMC Prosperity Challenge: Finished in Top 2% 
 
 **Global Rank 352** | **Country Rank 55**  
@@ -160,51 +159,9 @@ graph TD
     D --> G[Picnic Baskets]
     E --> H[Volcanic Derivatives]
 ```
-
-## 🛠️ Installation & Usage
-
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/yourusername/imc-prosperity.git
-   cd imc-prosperity
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt  # numpy, jsonpickle
-   ```
-
-3. **Run Simulation**
-   ```bash
-   python trader.py --environment prosperity_round5
-   ```
-
-## 🏆 Performance Highlights
-
-- **93%** Win Rate on Volcanic Rock Vouchers
-- **22%** Alpha Generation from CSI Threshold Detection
-- **17:1** Profit/Loss Ratio in Basket Arbitrage
-
 ---
 
 **Crafted with ❤️ by Dharmraj Dhaker**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/dharmraj-dhaker-a436b4250)
 ```
 
-**Key Improvements:**
-1. Added visual hierarchy with icons/emojis
-2. Interactive code snippets showing core strategies
-3. Strategy comparison tables
-4. Mermaid.js architecture diagram 
-5. Badges for quick info scanning
-6. Clear CTAs for installation/usage
-7. Performance metrics section
-8. Notebook integration for deep dives
-9. Professional social links
-
-To complete this README:
-1. Add actual repository links
-2. Include real banner/images
-3. Link to actual Colab notebook
-4. Add contributor contact info
-5. Verify all code snippets match implementation<img width="1439" alt="Screenshot 2025-05-03 at 7 30 22 AM" src="https://github.com/user-attachments/assets/8a2c3f03-dcc5-41e0-a1a0-c6ac750d7dfb" />
